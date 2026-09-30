@@ -6,3 +6,4 @@ I took this course because I was hoping to be able to learn more about computer 
 
 What games and/or applications do you think are designed very well or have interesting features you would like to learn how to implement in your own games/applications? List the apps and features
 
+A game that I enjoy a lot is Red Dead Redemption. In Red Dead Redemption, I really enjoy the attention to detail the developers coded. This includes many things such as the NPC state machines, weather system, and the many other small details that work together to make the game so immersive and fun to play. I would love to learn how to implement advanced procedural behaviors, reactive world systems, and intricate gameplay mechanics so I can incorporate them into my own future Python applications and game projects.
